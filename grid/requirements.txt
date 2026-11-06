@@ -1,0 +1,14 @@
+# Dependencies of make_grid.py (Python >= 3.10)
+#
+# Tested with: Python 3.15.1, numpy 2.5.2, scipy 1.18.1, astropy 8.0.1,
+#              eazy 0.8.7, dust_extinction 1.7, matplotlib 3.11.2, threadpoolctl 3.6.0
+#
+# Install: pip install -r requirements.txt
+
+numpy>=1.24
+scipy>=1.10          # dependency of eazy
+astropy>=5.3         # Quantity input for dust_extinction
+matplotlib>=3.7      # diagnostics figure only
+dust_extinction>=1.2 # G23 attenuation curve
+eazy-py>=0.7         # Inoue14 IGM model (import eazy)
+threadpoolctl>=3.1   # optional: cap BLAS threads
