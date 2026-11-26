@@ -29,7 +29,7 @@ TEST_CAT  = "test_photo.dat"
 
 SEED = 42
 
-EARLY_STOP_PATIENCE  = 60
+EARLY_STOP_PATIENCE  = 100
 EARLY_STOP_MIN_DELTA = 1e-5
 
 CKPT_BEST_WEIGHTS   = "photo_best_sed_model.weights.h5"
