@@ -1,8 +1,8 @@
-# PiDSED: Physics-Informed Differentiable SED Fitting for Self-Supervised Photometric Redshift Estimation
+# PiDSED: Physics-Informed Differentiable SED Fitting for Photometric Redshift Estimation
 
 Official Python implementation of PiDSED (Physics-Informed Differentiable SED Fitting), a self-supervised photometric redshift (photo-$z$) estimation framework presented in the paper:
 
-> **Physics-Informed Differentiable SED Fitting for Self-Supervised Photometric Redshift Estimation**  
+> **Physics-Informed Differentiable SED Fitting for Photometric Redshift Estimation**  
 >  Zhijian Luo\*, Junhao Lu\*, Jianzhen Chen\*, Zhu Chen, Hubing Xiao, Shaohua Zhang, and Chenggang Shu  
  
 
@@ -113,7 +113,7 @@ If you use PiDSED in your research, please cite our paper:
 ```bibtex
 @article{Luo2026PiDSED,
   author    = {Luo, Zhijian and Lu, Junhao and Chen, Jianzhen and Chen, Zhu and Xiao, Hubing and Zhang, Shaohua and Shu, Chenggang},
-  title     = {Physics-Informed Differentiable SED Fitting for Self-Supervised Photometric Redshift Estimation},
+  title     = {Physics-Informed Differentiable SED Fitting for Photometric Redshift Estimation},
   journal   = {xxxxxxxxxxxxxxxxxxxxxxxxx},
   volume    = {xx},
   number    = {xx},
